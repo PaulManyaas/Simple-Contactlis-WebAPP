@@ -15,7 +15,7 @@ This repo contains the code for a RESTful API Simple Contact List App that was b
 
 <h3>Instructions</h3>
 
-Github code available at
+Github code available at https://github.com/PaulManyaas/Simple-Contactlis-WebAPP
 
     
 
